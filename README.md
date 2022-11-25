@@ -1,0 +1,2 @@
+# CloakeyBot
+Cloakey Discord Bot
