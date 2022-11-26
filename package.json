@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SnakeStorm87/CloakeyBot/issues"
   },
-  "homepage": "https://github.com/SnakeStorm87/CloakeyBot#readme"
+  "homepage": "https://github.com/SnakeStorm87/CloakeyBot#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
 }
