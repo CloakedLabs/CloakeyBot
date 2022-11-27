@@ -5,6 +5,6 @@ export default (client: Client): void => {
         if (!client.user || !client.application) {
             return;
         }
-        console.log(`${client.user.username} is online`);
+        console.log(`${client.user.tag} is online`);
     });
 }; 
